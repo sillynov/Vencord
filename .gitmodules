@@ -22,9 +22,6 @@
 [submodule "src/userplugins/vc-message-logger-enhanced"]
 	path = src/userplugins/vc-message-logger-enhanced
 	url = https://github.com/Syncxv/vc-message-logger-enhanced
-[submodule "src/userplugins/vc-sidebarchat"]
-	path = src/userplugins/vc-sidebarchat
-	url = https://github.com/Masterjoona/vc-sidebarchat
 [submodule "src/userplugins/vc-timezones"]
 	path = src/userplugins/vc-timezones
 	url = https://github.com/Syncxv/vc-timezones
@@ -52,3 +49,6 @@
 [submodule "src/userplugins/voiceUserButtons"]
 	path = src/userplugins/voiceUserButtons
 	url = https://github.com/nicola02nb/voiceUserButtons.git
+[submodule "src/userplugins/vc-sidebarchat"]
+	path = src/userplugins/vc-sidebarchat
+	url = https://github.com/Masterjoona/vc-sidebarchat.git
